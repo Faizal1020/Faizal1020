@@ -1,10 +1,10 @@
 ## Hi, I am Faizal 👋
 
-Halo! Saya **Faizal**.
+Halo! Saya **Moh Faizal Alvin**.
 - 🧑‍🎓 Mahasiswa Teknik Informatika  
 - 📍 Indonesia  
-- ✉️ Email: _tulis emailmu di sini_  
-- 🔗 Instagram/LinkedIn: _opsional_
+- ✉️ Email: 230605110112@student.uin-malang.ac.id
+- 🔗 Instagram: 
 
 ### Saat ini saya sedang belajar pemrograman mobile 📱
 
