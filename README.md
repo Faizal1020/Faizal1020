@@ -4,7 +4,7 @@ Halo! Saya **Moh Faizal Alvin**.
 - 🧑‍🎓 Mahasiswa Teknik Informatika  
 - 📍 Indonesia  
 - ✉️ Email: 230605110112@student.uin-malang.ac.id
-- 🔗 Instagram: 
+- 🔗 Instagram: https://www.instagram.com/faizalv._?igsh=MWlpamE3anoyYTB3Zw%3D%3D&utm_source=qr
 
 ### Saat ini saya sedang belajar pemrograman mobile 📱
 
