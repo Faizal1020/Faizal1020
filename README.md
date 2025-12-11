@@ -24,3 +24,4 @@ Halo! Saya **Moh Faizal Alvin**.
 | 12  | 25-10-2025    | 08           |  Ujian Tengah Semester | [Laporan UTS](https://drive.google.com/file/d/1MUPiYwDI8Znp7GyQiW-JeANGrnp6cPe_/view?usp=sharing)   | [Repo_UTS](https://github.com/Faizal1020/Ujian-Tengah-Semester) |
 | 13  | 05-11-2025    | 09            |  Manajemen State dengan GetX  | [Tugas_12](https://drive.google.com/file/d/1U7TCupeGSQmqjgFVYKAgA6hGWG3BE-Uy/view?usp=sharing)   | [Repo_12](https://github.com/Faizal1020/-Akses-Lokasi-dengan-GPS-di-Flutter-Modul-12) |
 | 14  | 05-11-2025    | 10            |  Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Tugas_13](https://drive.google.com/file/d/1p80HZq68bIgMVFmicg2hF0n1Kxag848t/view?usp=sharing)   | [Repo_13](https://github.com/Faizal1020/Operasi-CRUD-Create-Read-Update-Delete-di-Flutter-dengan-REST-API-Modul-13) |
+| 15  | 10-12-2025    | 11            |  Ujian Akhir Semester  | [Laporan_UAS]()   | [Repo_UAS]() |
